@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ranatushar2021@gmail.com**
 
-- ⚡ Fun fact **I love cricket too much and also addicted💖**
+- ⚡ Fun fact **I love New Technology with practical Knowledge too much and also addicted💖 apart form this Cricket Lover💖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
