@@ -11,6 +11,10 @@
 
 - 🌱 I’m currently learning **Mangodb Database course, Wordpress course**
 
+-  ✔️ I've completed few clone static website like **Youtube, Salesforce and Netflix**.
+
+-  I've been working on **Myntra and Blinkit website**.
+
 - 💬 Ask me about **Building scalable web applications - Fraud detection systems using machine learning**
 
 - 📫 How to reach me **ranatushar2021@gmail.com**
