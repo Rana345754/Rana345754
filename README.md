@@ -13,7 +13,7 @@
 
 -  ✔️ I've completed few clone static website like **Youtube, Salesforce and Netflix**.
 
--  I've been working on **Myntra and Blinkit website**.
+-  I've been working on **Myntra and Blinkit website and DineDashy MERN Stack Website**.
 
 - 💬 Ask me about **Building scalable web applications - Fraud detection systems using machine learning**
 
