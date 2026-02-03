@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rana345754&label=Profile%20views&color=0e75b6&style=flat" alt="rana345754" /> </p>
 
-- 🔭 I’m currently working on **𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐅𝐫𝐨𝐦 𝐖𝐢𝐧𝐠𝐬𝐥𝐢𝐝𝐞 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬**
+- 🔭 I’ve completed  **𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐅𝐫𝐨𝐦 𝐖𝐢𝐧𝐠𝐬𝐥𝐢𝐝𝐞 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬**
 
 -    I’ve completed  **𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐅𝐫𝐨𝐦 𝐆𝐨𝐧𝐚𝐠𝐨𝐨𝐫 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬**
 
-- 🌱 I’m currently learning **Mangodb Database course, Wordpress course**
+- 🌱 I’m currently learning **IBM DATA SCIENCE CERTIFICATION COURSE FOR ENTRY LEVEL JOINEE**
 
 -  ✔️ I've completed few clone static website like **Youtube, Salesforce and Netflix**.
 
--  I've been working on **Myntra and Blinkit website and DineDashy MERN Stack Website**.
+-  I've been working on **Data science & Machine learning Real world data driven project**.
 
 - 💬 Ask me about **Building scalable web applications - Fraud detection systems using machine learning**
 
